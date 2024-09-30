@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shafwan Shadid Khan</h1>
+<h1 align="center">Hi 👋, I'm Shadid </h1>
 <h3 align="center">I am currently learning programming and exploring different technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssk-23&label=Profile%20views&color=0e75b6&style=flat" alt="ssk-23" /> </p>
