@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web development,Machine Learning and Artificial InteIntelligence**
 
-- ⚡ Fun fact **I think I am developing day by day**
+- ⚡**I think I am developing day by day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
