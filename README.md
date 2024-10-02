@@ -7,9 +7,6 @@
 
 - ⚡**I think I am developing day by day**
 
-## Contact me:
-*to be added*
-
 </br>
 
 ## Languages and Tools:
